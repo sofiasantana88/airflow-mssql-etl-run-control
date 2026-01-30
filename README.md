@@ -20,19 +20,7 @@ The goal of this project is to show real-world data engineering practices, inclu
 3. log_ends logs the end of the ETL run, including success or failure.
 
 ## Repository Structure 
-airflow-mssql-etl-run-control/
-├── dags/
-│ └── mssql_etl_runall.py
-├── sql/
-│ ├── ZAGI_Source.sql
-│ ├── ZAGI_DW.sql
-│ ├── ETL_RunLog.sql
-│ ├── ETL_RunStart.sql
-│ └── ETL_RunEnd.sql
-├── docs/
-│ └── screenshots/
-├── .gitignore
-└── README.md
+<img width="331" height="405" alt="image" src="https://github.com/user-attachments/assets/94fbb838-6f58-4610-89ab-38048a2be632" />
 
 ## Key Concepts
 1. DAG definition and task dependencies
